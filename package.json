@@ -1,12 +1,12 @@
 {
-  "name": "Infinity-pair-web",
+  "name": "Infinity-pair-site",
   "version": "1.0",
   "description": "A simple WhatsApp pair web created by Sadaru",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Infinity-pair-web",
-    "stop": "pm2 stop Infinity-pair-web",
-    "restart": "pm2 restart Infinity-pair-web"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Infinity-pair-site",
+    "stop": "pm2 stop Infinity-pair-site",
+    "restart": "pm2 restart Infinity-pair-site"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.9",
