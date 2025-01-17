@@ -1,1 +1,1 @@
-# mypairsite
+# Infinity pair web
